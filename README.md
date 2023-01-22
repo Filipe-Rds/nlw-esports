@@ -1,5 +1,5 @@
 <h1>🔥 NLW Esports by Rocketseat 🔥</h1>
-<img src="preview.jpg"><br>
+<img src="preview.png"><br>
 
 <h1>Technologies 💻</h1>
 <div style="display: inline_block">
